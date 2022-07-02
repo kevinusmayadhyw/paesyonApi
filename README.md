@@ -6,7 +6,7 @@ PAESYON is website portfolio create by
 3. Esa Noer F. as Backend and Front End
 4. Dhaneswara L Pas Backend and Front End
 
-as a part of Study Independent by Kampus Merdeka Associate with Zenius Education with Learning Path Full Stack Development,CI/CD,and Cloud Engginering
+as a part of ** Study Independent by Kampus Merdeka Associate with Zenius Education with Learning Path Full Stack Development,CI/CD,and Cloud Engineering **
 
 ### `DEVELOPMENT`
 
@@ -19,5 +19,4 @@ You can see all content in here https://www.paesyon.my.id/
 
 ### `Tech`
 
-We are using React Js as front end framework and Strapi as backend headless cms
-
+We are using React Js as front end framework and Strapi as backend headless cms. Cloud services using heroku,DigitalOcean, and Vercel
