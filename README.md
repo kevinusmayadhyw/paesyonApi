@@ -6,7 +6,7 @@ PAESYON is website portfolio create by
 3. Esa Noer F. as Backend and Front End
 4. Dhaneswara L Pas Backend and Front End
 
-as a part of ** Study Independent by Kampus Merdeka Associate with Zenius Education with Learning Path Full Stack Development,CI/CD,and Cloud Engineering **
+as a part of **Study Independent by Kampus Merdeka Associate with Zenius Education with Learning Path Full Stack Development,CI/CD,and Cloud Engineering**
 
 ### `DEVELOPMENT`
 
