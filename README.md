@@ -1,57 +1,23 @@
-# 🚀 Getting started with Strapi
+# PAESYON
 
-Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
+PAESYON is website portfolio create by 
+1. Kevin Usmayadhy W.v as Project Lead
+2. Dwi Setyo Aji as Backend and Front End
+3. Esa Noer F. as Backend and Front End
+4. Dhaneswara L Pas Backend and Front End
 
-### `develop`
+as a part of Study Independent by Kampus Merdeka Associate with Zenius Education with Learning Path Full Stack Development,CI/CD,and Cloud Engginering
 
-Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-develop)
+### `DEVELOPMENT`
 
-```
-npm run develop
-# or
-yarn develop
-```
+Website for front end have been deployed in Vercel https://www.paesyon.my.id/ and back end using headless CMS Strapi and have been deployed from heroku app 
+https://apipaesyon.herokuapp.com/admin/
 
-### `start`
+### `CONTENT`
 
-Start your Strapi application with autoReload disabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-start)
+You can see all content in here https://www.paesyon.my.id/
 
-```
-npm run start
-# or
-yarn start
-```
+### `Tech`
 
-### `build`
+We are using React Js as front end framework and Strapi as backend headless cms
 
-Build your admin panel. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-build)
-
-```
-npm run build
-# or
-yarn build
-```
-
-## ⚙️ Deployment
-
-Strapi gives you many possible deployment options for your project. Find the one that suits you on the [deployment section of the documentation](https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment.html).
-
-## 📚 Learn more
-
-- [Resource center](https://strapi.io/resource-center) - Strapi resource center.
-- [Strapi documentation](https://docs.strapi.io) - Official Strapi documentation.
-- [Strapi tutorials](https://strapi.io/tutorials) - List of tutorials made by the core team and the community.
-- [Strapi blog](https://docs.strapi.io) - Official Strapi blog containing articles made by the Strapi team and the community.
-- [Changelog](https://strapi.io/changelog) - Find out about the Strapi product updates, new features and general improvements.
-
-Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/strapi). Your feedback and contributions are welcome!
-
-## ✨ Community
-
-- [Discord](https://discord.strapi.io) - Come chat with the Strapi community including the core team.
-- [Forum](https://forum.strapi.io/) - Place to discuss, ask questions and find answers, show your Strapi project and get feedback or just talk with other Community members.
-- [Awesome Strapi](https://github.com/strapi/awesome-strapi) - A curated list of awesome things related to Strapi.
-
----
-
-<sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
